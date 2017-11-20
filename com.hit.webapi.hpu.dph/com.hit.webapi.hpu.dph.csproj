@@ -347,7 +347,6 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="Views\UI\Index.cshtml" />
-    <Content Include="Views\UI\TestRNTT.cshtml" />
     <None Include="Web References\ArgoBasicService\argo-types.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -411,9 +410,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>54324</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:54324/</IISUrl>
-          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
-          <IISAppRootUrl>http://localhost:54324/</IISAppRootUrl>
+          <IISUrl>http://localhost:58842/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

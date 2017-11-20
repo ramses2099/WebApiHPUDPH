@@ -91,18 +91,18 @@ C:\Users\jose.encarnacion\documents\visual studio 2015\Projects\WebApiHPUDPH\com
 C:\Users\jose.encarnacion\documents\visual studio 2015\Projects\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.dll
 C:\Users\jose.encarnacion\documents\visual studio 2015\Projects\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.pdb
 C:\Users\jose.encarnacion\documents\visual studio 2015\Projects\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.csprojResolveAssemblyReference.cache
+C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\VBCSCompiler.exe
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\ApplicationInsights.config
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\csc.exe
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.CSharp.Core.targets
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\vbc.exe
-C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\VBCSCompiler.exe
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\com.hit.webapi.hpu.dph.dll.config
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\com.hit.webapi.hpu.dph.dll
@@ -181,6 +181,5 @@ C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\M
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\bin\System.Web.Http.Owin.xml
-C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.csprojResolveAssemblyReference.cache
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.dll
 C:\Users\jose.encarnacion\Source\Repos\WebApiHPUDPH\com.hit.webapi.hpu.dph\obj\Debug\com.hit.webapi.hpu.dph.pdb
