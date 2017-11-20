@@ -347,6 +347,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="Views\UI\Index.cshtml" />
+    <Content Include="Views\UI\TestRNTT.cshtml" />
     <None Include="Web References\ArgoBasicService\argo-types.xsd">
       <SubType>Designer</SubType>
     </None>

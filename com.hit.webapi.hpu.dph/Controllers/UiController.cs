@@ -19,5 +19,13 @@ namespace com.hit.webapi.hpu.dph.Controllers
             return View();
         }
 
+
+        public ActionResult TestRNTT()
+        {
+            ViewBag.Title = "UI Windows";
+
+            return View();
+        }
+
     }
 }
