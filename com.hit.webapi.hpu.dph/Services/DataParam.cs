@@ -11,5 +11,6 @@ namespace com.hit.webapi.hpu.dph.Services
         public String Action { get; set; }
         public String Nota { get; set; }
 
+
     }
 }
